@@ -2,14 +2,18 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
 }
 
 .fuck {
-    font: 3rem bolder;
-    color: cyan;
+    font-size: 2rem;
+    font-weight: bold;
+    color: red;
+    letter-spacing: 20px;   
 }
 
 .bullshit {
-    font: 1rem normal;
+    font-size: 1.2rem;
+    color: blue;
+    font-weight: lighter;
+    font-style: italic;
 }
